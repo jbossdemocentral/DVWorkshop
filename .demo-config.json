@@ -1,0 +1,19 @@
+{
+  "name":"Data Virtualization Financials Workshop",
+  "summary":"This workshop walks you from start to finish to create a real world Financials Use Case on Premisel",
+  "author":"Kenneth Peeples, Cojan van Ballegooijen, Blaine Mincey, Serhat Dirik",
+  "category":"dv",
+  "categories":["dv"],
+  "level":"advanced",
+  "published":true,
+  "prerequisites":"Java VM 1.6 or 1.7, Maven",
+  "targetProduct":"JBoss Data Virtualization",
+  "productVersion":"JBoss DV 6.1",
+  "technologies": ["Teiid","JBoss EAP","JBoss DV"],
+  "links": [ 
+    {
+      "name":"Code",
+      "url":"https://github.com/jbossdemocentral/DVWorkshop"
+    }
+  ]
+}
